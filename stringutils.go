@@ -1,4 +1,4 @@
-package mystringutils
+package stringutils
 
 import "strings"
 
